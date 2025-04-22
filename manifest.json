@@ -1,0 +1,30 @@
+{
+  "name": "Level Up Your Life ✨",
+  "short_name": "LevelUp",
+  "description": "A gamified personal development tracker.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fdf6f8",
+  "theme_color": "#e75480",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "apple-touch-icon"
+    }
+  ]
+}
